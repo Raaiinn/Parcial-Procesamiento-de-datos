@@ -1,0 +1,8 @@
+Link para acceso a los datos de nacidos vivos de Guadalajara de Buga:
+
+https://www.datos.gov.co/resource/dc6m-g67k.csv
+
+Link para acceso a los datos de nacidos vivos de Acacias:
+
+https://www.datos.gov.co/resource/7ifb-wrqs.csv
+
